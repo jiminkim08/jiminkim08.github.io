@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Resume - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Jimin Kim</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Jimin
+                        <span class="text-primary">Kim</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        Ph.D.<br> Data Scientist <br> ML/DL Engineer
+                    </div>
+                    <div class="subheading mb-5">
+                        66 Hoegiro, Dongdaemun-gu, Seoul, 02456, Republic of Korea,
+                        <a href="mailto:name@email.com">kimjm@outlook.com</a>
+                    </div>
+                    <p class="lead mb-5">I am a data scientist specializing in deep learning and machine learning. I work in the public sector, where I conduct data analysis on technology, companies, and industries, and develop AI-based models.</p>
+                    <p class="lead mb-5">- Member of the Korea Society of Management Information Systems (KMIS)<br>- Advisory Board Member, KIBO Data Asset Valuation</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Senior Researcher</h3>
+                            <div class="subheading mb-3">Korea Institute of Science and Technology Information (KISTI)</div>
+                            <p>Div. of Data Analysis, Center for Technology Commercialization Research, R&BD Analysis Research Team<br>- Role : Development of DL/ML-based Public R&D Commercialization Analysis Model</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">December 2019 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Special Lecturer</h3>
+                            <div class="subheading mb-3">Seoul Women’s University</div>
+                            <p>Appointed as a special lecturer in “Data Mining-based Business Operation”</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2020 - June 2021</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Researcher / Assistant Manager</h3>
+                            <div class="subheading mb-3">Korea Technology Finance Corporation (KIBO)</div>
+                            <p>Institute of Future Innovation, Research Team<br>- Role : Enterprise & Goverment Data Aanlysis, Development of Enterprise Analsyis Model</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">December 2017 - November 2019</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Teaching Assistant / Programming lecturer</h3>
+                            <div class="subheading mb-3">Seoul Women’s University</div>
+                            <p>Appointed as a teaching assistant & programming lecturer in “Statistical Analysis for Business”, "Advanced Statistics for Management", and "Probability and Statistics"</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - December 2017</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Lecturer</h3>
+                            <div class="subheading mb-3">Seoul Women’s University</div>
+                            <p>Appointed as a lecturer in “Management Information Systems”</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2017 - June 2017</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Visiting Researcher</h3>
+                            <div class="subheading mb-3">Tokyo Institute of Technology</div>
+                            <p>Department of Mechanical Engineering, cmdesign Lab<br>- Role : User Data Aanlysis</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">December 2014 - February 2015</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Research Intern</h3>
+                            <div class="subheading mb-3">Seoul National University (SNU)</div>
+                            <p>Graduate School of Convergence Science & Technology<br>- Role : User Data Aanlysis</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - August 2010</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Korea Advanced Institute of Science and Technology(KAIST)</h3>
+                            <div class="subheading mb-3">Doctor of Philosophy in Business and Technology Management</div>
+                            <div>- Majoring in Management Information Systems</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2014 - February 2018</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Korea Advanced Institute of Science and Technology(KAIST)</h3>
+                            <div class="subheading mb-3">Master of Science in Business and Technology Management</div>
+                            <div>- Majoring in Management Information Systems</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">February 2012 - February 2014</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Hanyang University, College of Engineering</h3>
+                            <div class="subheading mb-3">Bachelor of Science in Information Technology Management</div>
+                            <p>- Received the highest GPA honors & Summa Cum Laude</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2008 - February 2012</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-python"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-r-project"></i></li>
+                        <li class="list-inline-item"><i class="fas fa-database"></i></li>
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Problem Definition & Domain Knowledge Study
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Data Collection, Data Preprocessing, Data Quality Control
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Model Selection and Training, Model Evaluation, Model Tuning
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Model Deployment, Maintenance and Updates
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interests</h2>
+                    <p>"The Improbability Principle"</p>
+                    <p class="mb-0">"God does not play dice."</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Awards & Certifications</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Best paper award, 2021 KMIS International Conference<br>
+                            - Developement of NLP-based deep learning model for regional economic analysis
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Award for outstanding performance in Korea Institute of Science and Technology Information (Hello Rookie)
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Global Ph.D. Fellowship (National Scholarship), Ministry of Education, Science, and Technology
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            KAIST Scholarship, Korea Advanced Institute of Science and Technology
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            The highest GPA honors & Summa Cum Laude, Hanyang University
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            National Science and Engineering Scholarship, Korea Student Aid Foundation
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
